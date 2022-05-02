@@ -1,4 +1,4 @@
-# An Adaptive and Scalable ANN-based Model-Order-Reduction Method for Large-Scale TO Designs
+# An Adaptive and Scalable Neural Network-based Method for Large-Scale TO Designs
 
 The project files are associated with the research project on the development of MapNet for accelerating the large-scale Topology Optimization designs. The corresponding research paper can be found at: https://arxiv.org/abs/2203.10515
 
@@ -9,7 +9,7 @@ As discussed in the scientific paper, a ANN-based model, MapNet is being develop
 
 ## Architecture
 
-The architecture of MapNet with an illustration indicating the type of inputs and outputs associated with the model are shown in the images below. Again thse are just simplified illustration, for full details on the implementation kindly refer to the scientific paper.
+The architecture of MapNet with an illustration indicating the type of inputs and outputs associated with the model are shown in the images below. Again these are just simplified illustration, for full details on the implementation kindly refer to the scientific paper.
 
 ![Image on architecture of MapNet](/images/Fig1.png)
 ![Image illustrating inputs and outputs of MapNet](/images/Fig2.png)
